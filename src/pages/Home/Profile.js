@@ -11,7 +11,6 @@ import ProfileImgLarge from 'assets/jvt-profile-large.jpg';
 import ProfileImgPlaceholder from 'assets/jvt-profile-placeholder.jpg';
 import { reflow } from 'utils/transition';
 import { media } from 'utils/style';
-// import { ReactComponent as KatakanaProfile } from 'assets/katakana-profile.svg';
 import Heading from 'components/Heading';
 import Text from 'components/Text';
 import './Profile.css';
@@ -44,9 +43,6 @@ const ProfileText = ({ status, titleId }) => (
       In my spare time I like to practice Storybook and Material UI in React.JS, reading
       manga, playing rpg game. I’m always down for hearing about new projects, so feel
       free to drop me a line
-      {/* In my spare time I like to practice Brazilian Jiu Jitsu, play video games, and{' '}
-      <Link href="/projects/volkihar-knight">make mods</Link>. I’m always down for hearing
-      about new projects, so feel free to drop me a line. */}
     </Text>
   </Fragment>
 );
