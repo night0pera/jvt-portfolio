@@ -3,7 +3,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "description": "Portfolio site for Jaylord Tagalan",
-  "repository": "https://github.com/night0pera/jvt-portfolio.git",
+  "repository": "https://github.com/night0pera/jvt-portfolio-react.git",
   "author": "Jaylord Tagalan jaylordtagalan@gmail.com",
   "devDependencies": {
     "@babel/core": "^7.12.3",
