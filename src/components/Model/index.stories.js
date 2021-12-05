@@ -7,10 +7,10 @@ import phoneTextureLarge from 'assets/dataentry-list-large.png';
 import phoneTexture2Placeholder from 'assets/dataentry-list-placeholder.png';
 import phoneTexture2 from 'assets/dataentry-list.png';
 import phoneTexture2Large from 'assets/dataentry-list-large.png';
-import laptopTexturePlaceholder from 'assets/spr-lesson-builder-dark-placeholder.jpg';
-import laptopTexture from 'assets/spr-lesson-builder-dark-large.jpg';
-import laptopTextureLarge from 'assets/spr-lesson-builder-dark-large.jpg';
-import laptopTexturePlaceholder from 'assets/spr-devs-small.png';
+// import laptopTexturePlaceholder from 'assets/spr-lesson-builder-dark-placeholder.jpg';
+// import laptopTexture from 'assets/spr-lesson-builder-dark-large.jpg';
+// import laptopTextureLarge from 'assets/spr-lesson-builder-dark-large.jpg';
+import laptopTexturePlaceholder from 'assets/spr-devs-placeholder.png';
 import laptopTexture from 'assets/spr-devs-small.png';
 import laptopTextureLarge from 'assets/spr-devs-large.png';
 

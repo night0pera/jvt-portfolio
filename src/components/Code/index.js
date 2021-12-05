@@ -1,5 +1,5 @@
 import { useTheme } from 'components/ThemeProvider';
-import './index.scss';
+import './index.css';
 
 const Code = props => {
   const theme = useTheme();
